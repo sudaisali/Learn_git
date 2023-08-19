@@ -7,3 +7,12 @@ article>p:first-child{
     text-align: center;
     font-weight: 700;
 }
+article>p{
+    background-color: rgb(253, 0, 0);
+    color: white;
+    padding: 20px;
+    font-size: 25px;
+    line-height: 35px;
+    text-align: center;
+    font-weight: 700;
+}
